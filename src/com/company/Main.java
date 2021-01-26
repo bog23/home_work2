@@ -6,7 +6,7 @@ public class Main {
 
 
         //Exercise 1
-    /*int [] a = {1, 0, 0, 1, 1, 0, 1, 0, 1};
+    int [] a = {1, 0, 0, 1, 1, 0, 1, 0, 1};
         for (int i = 0; i < a.length; i++) {
             if (a[i] == 1){
                 a[i] = 0;
@@ -16,16 +16,16 @@ public class Main {
                 System.out.print(a[i] + " ");
             }
         }
-        */
+
         //Exercise 2
-        /*int [] b = new int [8];
+        int [] b = new int [8];
         for (int i = 0, j = 0; i < b.length; i++, j+=3) {
             b[i] += j;
             System.out.print(b[i]+" ");
             }
-            */
 
-        /*
+
+
         //Exercise 3
 
         int[] c = {1, 5, 3, 2, 11, 4, 5, 2, 4, 8, 9, 1};
@@ -37,10 +37,10 @@ public class Main {
                 System.out.print(c[i]+" ");
             }
 
-        }*/
+        }
 
         //Exercise 4
-        /*
+
         int [][] d = new int [3][3];
 
 
@@ -56,7 +56,7 @@ public class Main {
                 System.out.print(d[i][j] + " ");
             }
             System.out.println();
-        }*/
+        }
     }
 
 }
